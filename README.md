@@ -1,12 +1,5 @@
-// TODO: Describe myself.
-
-- 👋 Hi, I’m @alfertev2014
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alfertev2014/alfertev2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @alfertev2014 (Vasiliy Alfertev). I'm software developer. I have experience in Linux system programming, web-development, back-end and front-end.
+- 👀 I’m interested in computer science, programming languages, paradigms, programming styles, best practices, compilers and runtime environments. I have practical experience in C++, JavaScript, Java. I'm very interesting in learning Scala, Kotlin, Rust, OCaml, Haskell.
+- 🌱 I’m currently learning features of the last standard of C++. Also, I'm very interested in JavaScript and GUI development using HTML5 and CSS. Yet, I'm trying to grasp the nuances of microservice architecture and DevOps.
+- 💞️ I’m looking to collaborate on development of common libraries and solutions which may allow to eliminate redundant complexity of software system. I'm trying to design a new LISP-like programming language. Also, I'm trying to find out the ways of using bare C++ with std and vanilla JavaScript with browser APIs to reach all the needed functionalities of the real world programming (frameworkless development).
+- 📫 How to reach me: alfertev2012@gmail.com.
